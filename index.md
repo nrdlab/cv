@@ -81,7 +81,7 @@ Every component was developed from scratch without external libraries besides Re
   - Saved List
 - developed many section of the Saas platform
   - Discovery
-- designed and developed the Jason Web Token frontend architecture
+- designed and developed the Json Web Token frontend architecture
 - introduced a different way to serve our internal framework reducing significantly deploy time and compiled size
 
 **_Technologies used:_** React, Typescript, Node.js, Styled-components, Redux, Jest, Storybook
