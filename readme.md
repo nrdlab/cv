@@ -22,7 +22,7 @@ interested in **_Functional Programming_**
 ### Experience
 #### **Senior Software Engineer**
 
-@ [BEE by MailUp Group](https://beefree.io/) | Oakland, California (full remote) | _(Feb 2020 - Present)_ <br>
+@ [BEE by MailUp Group](https://beefree.io/) | Oakland, California (full remote) | _(Feb 2020 - March 2021)_ <br>
 
 **_Role_:**
 
@@ -31,22 +31,25 @@ I'm leading the progressive architecture rewriting of the company main product [
 
 **_Main activities_:**
 
+- leading the migration from js to ts 
 - designing a new data flow for the entire application in order to fix critical parts
+- functional programming mentoring / advocating and courses ( typescript fp-ts ) 
 - reverse engineering and rewriting the actual codebase in order to reduce side-effects
 - optimizing CD/CI workflows
 - producing technical documentation
 - test driven development 
-- participate in Code Reviews and provide feedback
 
 **_Accomplishments_:**
 
 - reverse engineered and rewrote the loading engine architecture reducing the loading times to a third compared to the previous implementation.
+- developed an internal framework with a fully automated SDLC via pull-request 
 - developed a custom typesafe middleware to facilitate the progressive migration to a different state management solution
 - developed a ui framework following atomic design principles with compound pattern
 - developed the whole frontend architecture of
   - Workspaces | AMP support | Headings | Preview
 - produced a _Coding Style guide_ to define programming conventions, style, and best practices accross the teams.
 - introduced Pull-requests / Code-reviews in the Software development lifecycle
+
 
 <br>
 
