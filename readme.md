@@ -20,9 +20,29 @@ loving **_Open Source_** |
 interested in **_Functional Programming_**
 
 ### Experience
+
 #### **Senior Software Engineer**
 
-@ [BEE by MailUp Group](https://beefree.io/) | Oakland, California (full remote) | _(Feb 2020 - March 2021)_ <br>
+@ [Uala](https://www.uala.com/) | Italy (full remote) | _( April 2021 - Currently )_ <br>
+
+**_Role_:**
+
+I work as a Senior Software Engineer in the Saas team. 
+
+
+**_Main activities_:**
+  - developing new features
+
+
+<br>
+
+**_Technologies used:_** TypeScript, React, Node.js, Jest, Enzyme, Cypress.
+
+<hr>
+
+#### **Senior Software Engineer**
+
+@ [BEE by MailUp Group](https://beefree.io/) | Oakland, California (full remote) | _( Feb 2020 - March 2021 )_ <br>
 
 **_Role_:**
 
@@ -59,7 +79,7 @@ I'm leading the progressive architecture rewriting of the company main product [
 
 #### **Frontend Software Engineer**
 
-@ [Buzzoole](buzzoole.com) | Italy (full remote) | _(Mar 2019 - Feb 2020)_ <br>
+@ [Buzzoole](buzzoole.com) | Italy (full remote) | _( Mar 2019 - Feb 2020 )_ <br>
 
 **_Role_:**
 
@@ -93,7 +113,7 @@ Every component was developed from scratch without external libraries besides Re
 
 #### **Javascript Fullstack Developer**
 
-@ [Ireputo](Ireputo) | Italy (full remote) | _(Jun 2017 - Mar 2019)_ <br>
+@ [Ireputo](Ireputo) | Italy (full remote) | _( Jun 2017 - Mar 2019 )_ <br>
 
 **_Role_:**
 
@@ -121,7 +141,7 @@ Every feature was tailored starting from stakeholders needs, and data sources ra
 
 #### **Backend Developer**
 
-@ [Com-ita](com-ita) | Italy (full remote) | _(Jun 2015 - Mar 2017)_ <br>
+@ [Com-ita](com-ita) | Italy (full remote) | _( Jun 2015 - Mar 2017 )_ <br>
 
 **_Role_:**
 
@@ -146,7 +166,7 @@ My role was develop and maintain custom bots, crawlers, parsers, scrapers and se
 
 #### **Frontend developer**
 
-@ [Freelance](freelance) | Italy (full remote) | _(Jun 2013 - jun 2015)_ <br>
+@ [Freelance](freelance) | Italy (full remote) | _( Jun 2013 - jun 2015 )_ <br>
 
 **_Main activities_:**
 
